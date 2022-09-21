@@ -38,8 +38,8 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
-jspm_packages/
+frontend/app/node_modules/
+frontend/app/jspm_packages/
 
 # TypeScript v1 declaration files
 typings/
@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+slim.report.json
+.idea
+.DS_Store
